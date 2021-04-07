@@ -19,6 +19,7 @@ font-family: 'Syncopate', sans-serif !important;
 .cardContainer {
     padding: 10px;
     margin: 30px;
+    align-items: center;
 }
 
 .card-img-top {
@@ -30,6 +31,7 @@ font-family: 'Syncopate', sans-serif !important;
     background-color: gray;
     border-color: seashell;
     color: white;
+    align-self: center;
 }
 .btn:hover {
     background-color:dimgrey;
@@ -66,7 +68,4 @@ footer {
 
 .epee-pic {
     height: 100%;
-}
-p {
-    text-align: center;
 }
