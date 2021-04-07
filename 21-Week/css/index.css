@@ -1,0 +1,72 @@
+nav, h1, h2, h5 {
+font-family: 'Syncopate', sans-serif !important;
+}
+
+.jumbotron {
+    background-image: url("../images/BHSW7QIZZFEOZNB5APFP7RUBUI.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    color: white;
+}
+
+.weaponTypes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardContainer {
+    padding: 10px;
+    margin: 30px;
+}
+
+.card-img-top {
+    height: 20vh;
+    width: 100%;
+}
+
+.btn {
+    background-color: gray;
+    border-color: seashell;
+    color: white;
+}
+.btn:hover {
+    background-color:dimgrey;
+    border-color: dimgrey;
+}
+
+footer {
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.carousel-item {
+    height: 70vh;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+.refs {
+    /* display: inline-block; */
+}
+.ref-img {
+    /* display: inline-block; */
+    height: 30vw;
+}
+
+.epee-pic {
+    height: 100%;
+}
+p {
+    text-align: center;
+}
